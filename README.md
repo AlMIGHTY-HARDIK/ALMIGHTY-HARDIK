@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/hardiksomkuwar" target="blank"><img src="https://img.shields.io/twitter/follow/hardiksomkuwar?logo=twitter&style=for-the-badge" alt="hardiksomkuwar" /></a> </p>
 
-- 🌱 I’m currently learning Data Science **Python, R, Julia**
+- 🌱 I’m currently learning Data Science **Python, R, Julia**, Blockchain **solidity,ethereum**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hardik-somkuwar-761aa921b/](https://www.linkedin.com/in/hardik-somkuwar-761aa921b/)
 
