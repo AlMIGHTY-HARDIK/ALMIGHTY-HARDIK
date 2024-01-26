@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hardik Somkuwar</h1>
+<h1 align="center">Hii 👋, I'm Hardik Somkuwar</h1>
 <h3 align="center">A passionate full stack web/ Blockchain developer From India</h3>
 
 <img align="right" alt="coding" width="800" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -9,13 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/hardiksomkuwar" target="blank"><img src="https://img.shields.io/twitter/follow/hardiksomkuwar?logo=twitter&style=for-the-badge" alt="hardiksomkuwar" /></a> </p>
 
-- 🌱 I’m currently learning Data Science **Python, R, Julia**, Blockchain **solidity,ethereum**
+- 🌱 I’m currently learning Data Science **Python, R, Julia**, Blockchain **Solidity, Ethereum**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hardik-somkuwar-761aa921b/](https://www.linkedin.com/in/hardik-somkuwar-761aa921b/)
 
-- 💬 Ask me about **React,Blockchain, etc**
-
-- 📫 How to reach me **hardiksomkuwar@gmail.com**
+- 📫 Reach me at **hardiksomkuwar@gmail.com**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
