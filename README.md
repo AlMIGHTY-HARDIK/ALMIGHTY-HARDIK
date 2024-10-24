@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Hardik Somkuwar</h1>
-<h3 align="center">A passionate full stack web/ Blockchain developer From India</h3>
+<h3 align="center">A passionate full stack Web/ Deep learning/ Blockchain developer From India</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=almighty-hardik&label=Profile%20views&color=0e75b6&style=flat" alt="almighty-hardik" /> </p>
