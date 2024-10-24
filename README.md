@@ -194,10 +194,6 @@
 
 ### 📊 **GitHub Stats & Activity**
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=almighty-hardik&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
-</p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=almighty-hardik&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
