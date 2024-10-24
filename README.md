@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hardik-somkuwar-761aa921b/](https://www.linkedin.com/in/hardik-somkuwar-761aa921b/)
 
-- 📫 Reach me at **hardiksomkuwar@gmail.com**
+- 📫 Reach me at **h.somkuwar531@gmail.com**
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
