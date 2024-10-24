@@ -1,5 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Hardik Somkuwar</h1>
-<h3 align="center">A Passionate Full Stack Developer | Deep Learning Enthusiast | Blockchain Explorer from India</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer | Deep Learning Enthusiast | Blockchain Explorer from India</h3>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=almighty-hardik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -19,12 +21,17 @@
 
 ---
 
-- 👨‍💻 Check out my projects on [LinkedIn](https://www.linkedin.com/in/hardik-somkuwar-761aa921b/)
-- 📫 Feel free to reach me at **h.somkuwar531@gmail.com**
+### 🌟 **About Me**
+
+- 💼 Currently working on **Blockchain and Deep Learning** Projects.
+- 🌱 Actively learning **AI/ML algorithms and cloud computing.**
+- 💬 Ask me anything about **React, Node.js, Django, Blockchain, and AI!**
+- 👨‍💻 Check out my portfolio on [LinkedIn](https://www.linkedin.com/in/hardik-somkuwar-761aa921b/)
+- 📫 How to reach me: **h.somkuwar531@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 **Connect with Me**
 <p align="left">
   <a href="https://twitter.com/hardiksomkuwar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -45,7 +52,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### ⚙️ **Languages and Tools** 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -84,7 +91,12 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+### 📊 **GitHub Stats & Activity**
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=almighty-hardik&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+</p>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=almighty-hardik&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -95,4 +107,44 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almighty-hardik&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✍️ **Quote of the Day**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
+</p>
+
+---
+
+### 💼 **GitHub Activity**
+
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1234](https://github.com/almighty-hardik/repo/issues/1234) in [almighty-hardik/repo](https://github.com/almighty-hardik/repo)
+2. 🎉 Merged PR [#5678](https://github.com/almighty-hardik/repo/pull/5678) in [almighty-hardik/repo](https://github.com/almighty-hardik/repo)
+3. 💪 Opened PR [#6789](https://github.com/almighty-hardik/repo/pull/6789) in [almighty-hardik/repo](https://github.com/almighty-hardik/repo)
+4. 🗣 Commented on [#9876](https://github.com/almighty-hardik/repo/issues/9876) in [almighty-hardik/repo](https://github.com/almighty-hardik/repo)
+<!--END_SECTION:activity-->
+
+---
+
+### 🚀 **Recent Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [How Blockchain is Revolutionizing the Future](https://almighty-hardik.medium.com)
+- [Deep Learning: From Basics to Advanced](https://almighty-hardik.medium.com)
+- [Top 10 JavaScript Frameworks in 2024](https://almighty-hardik.medium.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🎯 **Fun Facts**
+- 🧠 I love solving puzzles and brain teasers.
+- 💡 My current obsession: Building decentralized apps (DApps)!
+- ⚡ Fun fact: I can talk about blockchain for hours non-stop!
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF" />
 </p>
