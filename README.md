@@ -237,7 +237,7 @@
 
 ### 🎯 **Fun Facts**
 - 🧠 I love solving puzzles and brain teasers.
-- 💡 My current obsession: Building decentralized apps (DApps)!
+- 💡 My current obsession: Building AI Application!
 - ⚡ Fun fact: I can talk about Artificial Intelligence for hours non-stop!
 
 ---
